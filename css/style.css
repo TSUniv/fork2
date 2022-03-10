@@ -1,0 +1,8 @@
+.jaune{
+    color: yellow;
+}
+
+h2~p{
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
